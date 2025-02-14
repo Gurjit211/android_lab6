@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidActivityLifecycyle</string>
+    <string name="login">login</string>
+    <string name="please_provide_a_login">enter login id</string>
+    <string name="password">humber</string>
+    <string name="please_enter_a_password">enter password</string>
+    <string name="str_login">login</string>
+</resources>
